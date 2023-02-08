@@ -10,4 +10,4 @@
 - Puntuallity 🎯
 - Empathy 😊
 - Ability to work under pressure 👨‍💻 🏃‍♂️ 🏁
-- 📫 How to reach me: LinkedIn
+ Have a nice day! 🌇
