@@ -1,16 +1,13 @@
-### Hi there 👋
+ ***Console.WriteLine(”Hello world! 🖖”);***
+ 
+ 
+**Interpersonal Skills**
 
-<!--
-**Stacksblue/Stacksblue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Good communication 🗣️
+- Leadership 💪
+- Emotional intelligence 🤗
+- Efficient Teamwork 👥
+- Puntuallity 🎯
+- Empathy 😊
+- Ability to work under pressure 👨‍💻 🏃‍♂️ 🏁
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/jeremy-hern%C3%A1n-guevara-genovez-9a3335185/
