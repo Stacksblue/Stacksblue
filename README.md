@@ -10,4 +10,4 @@
 - Puntuallity 🎯
 - Empathy 😊
 - Ability to work under pressure 👨‍💻 🏃‍♂️ 🏁
- Have a nice day! 🌇
+- Have a nice day! 🌇
