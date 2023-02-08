@@ -1,7 +1,7 @@
- ***Console.WriteLine(”Hello world! 🖖”);***
+# Console.WriteLine(”Hello world! 🖖”);
  
  
-**Interpersonal Skills**
+## Interpersonal Skills
 
 - Good communication 🗣️
 - Leadership 💪
@@ -10,4 +10,13 @@
 - Puntuallity 🎯
 - Empathy 😊
 - Ability to work under pressure 👨‍💻 🏃‍♂️ 🏁
-- Have a nice day! 🌇
+
+## Technical Skills
+
+- Knowledge about computer systems, hardware and software
+- IDE, Visual Studio 2019, 2022, Apache Netbeans, Eclipse
+- Code editor, Visual Studio Code, Sublime Text, Notepad++
+- Microsoft Office
+- MySQL basics
+
+*Have a nice day! 🌇*
